@@ -1,0 +1,28 @@
+[{
+    "game": 1,
+    "scores": {
+        "winner": "HE-W-192",
+        "next-1": "KA-E-304",
+        "next-2": "CO-S-256",
+        "next-3": "KA-N-44"
+    }
+},
+    {
+        "game": 2,
+        "scores": {
+            "winner": "KA-N-136",
+            "next-1": "CO-E-224",
+            "next-2": "HE-S-40",
+            "next-3": "JE-W-144"
+        }
+    },
+    {
+        "game": 3,
+        "scores": {
+            "winner": "HE-E-336",
+            "next-1": "JE-S-80",
+            "next-2": "KA-W-544",
+            "next-3": "CO-N-80"
+        }
+    }
+]
